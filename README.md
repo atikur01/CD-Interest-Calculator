@@ -1,2 +1,4 @@
 # CD-Interest-Calculator
-[CD Interest Calculator](https://cd-interest-calculator.onrender.com/privacy.html)
+https://tinyurl.com/yehdapj4
+
+[CD Interest Calculator](https://cd-interest-calculator.onrender.com/)
